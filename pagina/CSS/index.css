@@ -1,0 +1,65 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.page {
+	width: 1000px;
+	margin: 0 auto;
+}
+body {
+	font-family: 'Archivo', sans-serif;
+	background-color: black;
+}
+#navBar {
+	font-size: 20px;
+	line-height: 30px;
+	background-color: white;
+	width: 450px;
+	display: inline-block;
+	margin-left:200px;
+
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+li {
+	display: inline-block;
+	float: left;
+	margin-bottom: 20px;
+}
+header {
+	height: 115px;	 
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+	margin-left: 20px;
+}
+
+.logo {
+	padding-top: 25px;
+	margin-left: 150px;	
+}
+.test {
+    font-size: 18px;
+    font-weight: 700;
+    color: #222931;
+    position: absolute;
+    left: 500px;
+    padding-right: 100px;
+}
+h1 {
+	color:blue;
+	margin-top:100px;
+	width:500px;
+}
+.dla{
+	color:blue;
+	margin-top:100px;
+	width: 350px
+}
+
